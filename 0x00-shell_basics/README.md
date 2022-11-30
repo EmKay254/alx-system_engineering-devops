@@ -1,1 +1,1 @@
-Move all files beginning with a capital letter
+Delete all files ending with ~
