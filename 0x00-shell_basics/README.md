@@ -1,1 +1,1 @@
-Create the directories
+Commas, not periods
