@@ -31,3 +31,4 @@ A script that adds execute permission to the owner and the group owner, and read
 A script that sets the mode of the file hello
 A Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 A Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+Write a script that sets the permission to the file helloto multiple permissions
